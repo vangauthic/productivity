@@ -1,0 +1,7 @@
+General:
+    TOKEN: ""
+    ACTIVITY: "watching" # playing, watching, listening
+    DOING_ACTIVITY: "the stock market" # what you want it to be playing, watching, listening, competing
+    STATUS: "online" # online, idle, dnd, invisible
+
+    ADMIN_GUILD_ID: 0
